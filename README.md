@@ -6,7 +6,6 @@ This is my neovim configuration based on https://github.com/LunarVim/Neovim-from
 $ sudo add-apt-repository ppa:neovim-ppa/unstable
 $ sudo apt update
 $ sudo apt install neovim
-
 ```
 ## Install other packages to make the configurations work
 ```zsh
